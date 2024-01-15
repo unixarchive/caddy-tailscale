@@ -1,9 +1,9 @@
-module github.com/tailscale/caddy-tailscale
+module github.com/unixarchive/caddy-tailscale
 
 go 1.21
 
 require (
-	github.com/caddyserver/caddy/v2 v2.7.3
+	github.com/caddyserver/caddy/v2 v2.7.6
 	go.uber.org/zap v1.25.0
 	tailscale.com v1.1.1-0.20230810153433-3d56cafd7d23
 )
